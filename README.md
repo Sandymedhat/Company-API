@@ -6,7 +6,7 @@ This repository contains the implementation of the Company API with the required
 
 **Clone the repository**:
    ```bash
-   git clone https://github.com/sandymedhat/Company-API.git
+   git clone https://github.com/Sandymedhat/Company-API.git
    cd Company-API
 
 -Create the database and tables
